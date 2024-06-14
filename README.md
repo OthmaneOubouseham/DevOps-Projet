@@ -30,11 +30,11 @@ The deployment process is managed through the `deploy.sh` script, which executes
 
 As the Docker image is built manually on the developer's local machine, it should be thoroughly tested and validated before deployment. After manual validation, the image can be pushed to a container registry if required. Jenkins takes over the deployment process by running the `deploy.sh` script, ensuring the consistency of the deployment workflow.
 
-<img width="1431" alt="Screenshot 2023-07-25 at 07 02 09" src="https://github.com/msaber69/DevOpsProject/assets/99510825/7584c67f-943c-4b6c-bd67-b6691c79dfbe">
+
 
 ## Final result (Build-Test-Deploy)
 
-<img width="1440" alt="Screenshot 2023-07-25 at 07 08 40" src="https://github.com/msaber69/DevOpsProject/assets/99510825/116c4fc2-398b-4150-adb0-41ad5013b210">
+
 
 
 ## Conclusion
